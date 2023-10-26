@@ -1,0 +1,13 @@
+{
+    "modUrl": "https://github.com/DArk0711/More-Luxuries-Fauna-And-Flora",
+    "author": "Anton Tarshikov",
+    "topics": [
+        "unciv-mod",
+        "unciv-mod-expansions",
+        "unciv-mod-modsofmods"
+    ],
+    "constants": {
+        "maxXPfromBarbarians": 10000,
+        "unitUpgradeCost": {}
+    }
+}
