@@ -34,8 +34,7 @@
 		"range": 1,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"uniques": ["[+400]% Strength <vs cities> <when attacking>", 
-					"Can only attack [City] units", 
+		"uniques": ["[+400]% Strength <vs cities> <when attacking>",
 					"Self-destructs when attacking",
 					"Earn [33]% of the damage done to [City] units as [Gold]"],
 		"attackSound": "shot"
