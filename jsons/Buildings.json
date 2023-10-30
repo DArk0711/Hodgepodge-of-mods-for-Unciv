@@ -204,14 +204,14 @@
         "cost": 100,
 	"food": 2,
 	"maintenance": 1,
-	"requiredNearbyImprovedResources": ["Sheep","Deer","Cattle","Horses"],
+	"requiredNearbyImprovedResources": ["Sheep","Deer","Cattle","Horses","Pigs"],
 	"requiredTech": "Animal Husbandry"
     }, 
     {
         "name": "Smokery",
         "cost": 100,
 	"maintenance": 2,
-	"uniques": ["[+1 Food] from [Sheep] tiles [in this city]","[+1 Food] from [Cattle] tiles [in this city]","[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Horses] tiles [in this city]"],
+	"uniques": ["[+1 Food] from [Pigs] tiles [in this city]","[+1 Food] from [Sheep] tiles [in this city]","[+1 Food] from [Cattle] tiles [in this city]","[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Horses] tiles [in this city]"],
 	"requiredBuilding": "Slaughterhouse",
 	"requiredTech": "Animal Husbandry"
     },
